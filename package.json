@@ -1,0 +1,23 @@
+{
+  "name": "stubs-jsexpert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseaugustoss/stubs-jsexpert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseaugustoss/stubs-jsexpert/issues"
+  },
+  "homepage": "https://github.com/joseaugustoss/stubs-jsexpert#readme",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}
